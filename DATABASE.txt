@@ -1,0 +1,18 @@
+ODBC: SMS
+MySQL user: root
+MySQL password: root
+DATABASE: sms
+
+create database sms;
+
+create table student_info(student_id int(5) NOT NULL AUTO_INCREMENT, namefirst varchar(255), namemiddle varchar(255), namelast varchar(255), fathernamefirst varchar(255), fathernamemiddle varchar(255), fathernamelast varchar(255), mothernamefirst varchar(255), mothernamemiddle varchar(255), mothernamelast varchar(255), address varchar(255), country varchar(255), state varchar(255), city varchar(255), pin int(10), gender varchar(255), dob DATETIME, studentphone bigint(20), studentemail varchar(255), fatherphone bigint(20), fatheremail varchar(255), motherphone bigint(20), motheremail varchar(255), class varchar(30), section varchar(30), PRIMARY KEY(student_id));
+
+create table fees(fees_id int(5) NOT NULL AUTO_INCREMENT, student_id int(5), month varchar(10), amount int(10), PRIMARY KEY(fees_id), FOREIGN KEY (student_id) REFERENCES student_info(student_id));
+
+create table attendance(student_id int(5), status varchar(20), DATE_ DATE, FOREIGN KEY (student_id) REFERENCES student_info(student_id));
+
+create table exam_info(student_id int(5), exam_type varchar(20), subjects varchar(255), marks int(10), total int(50), FOREIGN KEY (student_id) REFERENCES student_info(student_id));
+
+create table time_table(class int(5), section varchar(5), day varchar(20), subject1 varchar(50), subject2 varchar(50), subject3 varchar(50),lunch_break varchar(20), subject4 varchar(50), subject5 varchar(50));
+
+create table class(class varchar(50), fees int(20), subjects varchar(50), count int(10));

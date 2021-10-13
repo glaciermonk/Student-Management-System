@@ -1,0 +1,26 @@
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\User\AppData\Local\Temporary Projects\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student Management System.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\bin\Debug\Student Management System.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student Management System.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.TIME_TABLE_CREATION.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.CREATE_CLASS.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.PRINT_FEES_PREVIEW.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.PRINT_EXAM_REPORT_PREVIEW.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.PRINT_TIME_TABLE_PREVIEW.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\Student Management System\obj\Debug\Student_Management_System.Login.resources
